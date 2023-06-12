@@ -2,7 +2,7 @@
 
 Crescent is a command handler for [Hikari](https://github.com/hikari-py/hikari/).
 
-This organization includes libraries related to Crescent, and songbird-py for some reason.
+This organization includes libraries related to Crescent, and songbird-py.
 
 🌙 [hikari-crescent](https://github.com/hikari-crescent/hikari-crescent/) - The main library.
 
