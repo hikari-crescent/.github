@@ -6,7 +6,7 @@ This organization includes libraries related to Crescent, and songbird-py.
 
 🌙 [hikari-crescent](https://github.com/hikari-crescent/hikari-crescent/) - The main library.
 
-🌙 [book](https://hikari-crescent.github.io/book/) - A user guide for Crescent, written with mdbook.
+🌙 [docs](https://hikari-crescent.github.io/hikari-crescent/) - The docs guide for Crescent.
 
 🌙 [template](https://github.com/hikari-crescent/template/) - A template to help you make a new project quickly.
 
